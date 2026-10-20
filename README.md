@@ -1,2 +1,2 @@
 # onmark-legal
-OnMark legal
+onmark legal
